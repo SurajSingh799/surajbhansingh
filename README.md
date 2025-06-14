@@ -1,11 +1,11 @@
 <h1 align="center"> 👋 Hi, I'm Suraj Bhan Singh</h1>
 
-<h3 align="center">I'm a passionate Full-Stack Developer with a focus on modern web technologies and Web3.</h3>
+I'm a passionate Full-Stack Developer with a focus on modern web technologies and Web3.
 
- I work with **Angular, Node.js, MongoDB, Express, Solidity, Web3.js**
- Currently diving deeper into **Web3, Smart Contracts & TypeScript**
- Looking to collaborate on open-source and impactful tech projects  
- Ask me about JavaScript, Node.js, Angular, Web3, MongoDB  
+ - 💻 I work with **Angular, Node.js, MongoDB, Express, Solidity, Web3.js**
+ - 🌱 Currently diving deeper into **Web3, Smart Contracts & TypeScript**
+ - 🔭 Looking to collaborate on open-source and impactful tech projects  
+ - 💬 Ask me about JavaScript, Node.js, Angular, Web3, MongoDB  
 
 
 ## 🛠️ Tech Stack
